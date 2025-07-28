@@ -41,15 +41,15 @@ The primary dataset is sourced from [Kaggle’s London Airbnb Dataset](https://w
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/Hariram1201/London-Airbnb-Analysis.git
-   cd London-Airbnb-Analysis
+   cd London-Airbnb-Analysis ```
 2. **Create and activate a virtual environment**  
    ```bash
   python -m venv venv
   source venv/bin/activate   # macOS/Linux
-  venv\Scripts\activate      # Windows
+  venv\Scripts\activate      # Windows ```
 3. **Install dependencies**  
    ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt ```
 
 ---
 

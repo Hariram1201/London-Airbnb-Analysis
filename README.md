@@ -1,7 +1,5 @@
 # London-Airbnb-Analysis
 
-# London Airbnb Analysis
-
 ## Project Overview
 
 This project analyzes Airbnb listings in London to uncover insights into pricing, guest satisfaction, and property features. The aim is to support data-driven decision-making for hosts, guests, and investors by leveraging data preprocessing, exploratory data analysis (EDA), statistical modeling, and machine learning techniques.

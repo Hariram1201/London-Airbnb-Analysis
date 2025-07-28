@@ -42,17 +42,23 @@ The primary dataset is sourced from [Kaggle’s London Airbnb Dataset](https://w
 - **Guest Sentiment:** Positive reviews often highlight cleanliness and host responsiveness.  
 - **Clustering:** Airbnb listings cluster into distinct groups based on price and review patterns, revealing market segments.  
 - **Predictive Models:** Tree-based regressors outperform linear models in predicting prices and identifying outliers.
+
+---
   
 ## Future Work
 
 - Integrate demographic and local event data for richer analysis.  
 - Deploy models for dynamic pricing recommendations.  
 - Enhance sentiment analysis with more advanced NLP techniques.  
-- Develop interactive dashboards for end-users.  
+- Develop interactive dashboards for end-users.
+
+---
 
 ## Contact
 
 For questions or collaboration, feel free to open an issue or reach out via GitHub.
+
+---
 
 
 

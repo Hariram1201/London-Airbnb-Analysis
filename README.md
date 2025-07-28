@@ -2,14 +2,14 @@
 
 ## Project Overview
 
-This project analyzes Airbnb listings in London to uncover insights into pricing, guest satisfaction, and property features. The aim is to support data-driven decision-making for hosts, guests, and investors by leveraging data preprocessing, exploratory data analysis (EDA), statistical modeling, and machine learning techniques.
+This project analyses Airbnb listings in London to uncover insights into pricing, guest satisfaction, and property features. The aim is to support data-driven decision-making for hosts, guests and investors by leveraging data preprocessing, exploratory data analysis (EDA), statistical modeling and machine learning techniques.
 
 ---
 
 ## Project Timeline & Scope
 
 - **Week 1:** Data Collection & Preprocessing  
-- **Week 2:** Exploratory Data Analysis & Visualization  
+- **Week 2:** Exploratory Data Analysis & Visualisation  
 - **Week 3:** Statistical Analysis, Modeling & Insight Generation  
 - **Week 4:** Final Report & Documentation  
 
@@ -32,7 +32,7 @@ This project analyzes Airbnb listings in London to uncover insights into pricing
 
 ## Dataset
 
-The primary dataset is sourced from [Kaggle’s London Airbnb Dataset](https://www.kaggle.com/datasets). It includes listing details, reviews, and location data. Additional external data sources were considered for enrichment but not integrated in the final analysis.
+The primary dataset is sourced from [Kaggle’s London Airbnb Dataset](https://www.kaggle.com/datasets). It includes listing details, reviews and location data. Additional external data sources were considered for enrichment but not integrated in the final analysis.
 
 ---
 

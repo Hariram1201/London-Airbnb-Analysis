@@ -41,7 +41,12 @@ The primary dataset is sourced from [Kaggle’s London Airbnb Dataset](https://w
 - **Price Drivers:** Location, room type, and number of reviews significantly influence listing prices.  
 - **Guest Sentiment:** Positive reviews often highlight cleanliness and host responsiveness.  
 - **Clustering:** Airbnb listings cluster into distinct groups based on price and review patterns, revealing market segments.  
-- **Predictive Models:** Tree-based regressors outperform linear models in predicting prices and identifying outliers.  
+- **Predictive Models:** Tree-based regressors outperform linear models in predicting prices and identifying outliers.
+- 
+## Project Report
+
+You can view the detailed project report [here](./report/London-Airbnb-Analysis-Report.pdf).
+ 
 
 ## Future Work
 

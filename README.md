@@ -45,7 +45,7 @@ The primary dataset is sourced from [Kaggle’s London Airbnb Dataset](https://w
 - 
 ## Project Report
 
-You can view the detailed project report [here](./report/London-Airbnb-Analysis-Report.pdf).
+You can view the detailed project report [here]([./report/London-Airbnb-Analysis-Report.pdf](https://github.com/Hariram1201/London-Airbnb-Analysis/tree/main/report)).
  
 
 ## Future Work

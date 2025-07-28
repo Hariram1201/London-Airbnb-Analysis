@@ -50,9 +50,6 @@ The primary dataset is sourced from [Kaggle’s London Airbnb Dataset](https://w
 3. **Install dependencies**  
    ```bash
   pip install -r requirements.txt
-4. **Install dependencies**  
-   ```bash
-  pip install -r requirements.txt
 
 ## Key Insights
 
